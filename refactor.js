@@ -86,7 +86,7 @@ letter = "z";
 console.log("The letter is", letter);
 
 // Put your answer below -------------------------
-This will run [c] z then y, because the first pass will note the variable declaration of letter, then pass by the timeout function. Then it will read the console.log and search for the letter assignment, which is set as z above it.The second pass will then note the assignment of letter as x, then will run the timout interal on the function, noting the letter is now assigned y, then console.log "The letter is y".
+//This will run [c] z then y, because the first pass will note the variable declaration of letter, then pass by the timeout function. Then it will read the console.log and search for the letter assignment, which is set as z above it.The second pass will then note the assignment of letter as x, then will run the timout interal on the function, noting the letter is now assigned y, then console.log "The letter is y".
 
 // -----------------------------------------------
 
